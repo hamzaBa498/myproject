@@ -1,2 +1,2 @@
 This is file2.txt
-
+This line will be added in our local git repo
